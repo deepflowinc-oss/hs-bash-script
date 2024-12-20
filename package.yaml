@@ -1,6 +1,6 @@
 name:                bash-script
 version:             0.1.0.0
-github:              "deepflowinc/hs-bash-script"
+github:              "deepflowinc-oss/hs-bash-script"
 license:             BSD-3-Clause
 author:              "DeepFlow, Inc."
 maintainer:          "DeepFlow, Inc."
@@ -23,7 +23,7 @@ category:            Text
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/deepflowinc/hs-bash-script#readme>
+description:         Please see the README on GitHub at <https://github.com/deepflowinc-oss/hs-bash-script#readme>
 
 dependencies:
 - base >= 4.7 && < 5
